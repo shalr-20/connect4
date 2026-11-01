@@ -88,16 +88,8 @@ go mod tidy
 go run main.go
 ```
 
-Backend runs at: 
-1. http://localhost:8080
-2. ws://localhost:8080/ws
-
 Frontend setup:
 ```
 cd frontend
 npm install
 npm start
-```
-
-Frontend runs at:
-http://localhost:3000
